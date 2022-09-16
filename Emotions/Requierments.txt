@@ -1,0 +1,8 @@
+In order to run this make sure you have installed:
+oneai
+pandas
+transformers
+sklearn
+numpy
+datasets
+requests
